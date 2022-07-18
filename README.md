@@ -6,5 +6,4 @@ I am an audio/DSP engineer at [mayk.it](https://mayk.it) 👄 📱🔈
 - Making music 🎸
 - Learning new things! 🎓
 
-
- #![alt text](https://github.com/jamierpond/jamierpond/blob/main/mayk.png?raw=true)
+<!--  ![alt text](https://github.com/jamierpond/jamierpond/blob/main/mayk.png?raw=true) -->
