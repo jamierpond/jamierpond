@@ -2,7 +2,7 @@
 ### Good Morning! ✌️
 I work on all things audio at [mayk.it](https://mayk.it) 👄 📱🔈 
 
-Also end up doing a bunch of web and cloud infra stuff along the way sometimes. ⚛️🐳☸️
+Also end up doing a bunch of web and backend stuff along the way sometimes. ⚛️🐳☸️
 
 - Creating new audio effects and plugins 💻
 - Making music 🎸
