@@ -1,3 +1,3 @@
 
 ### Good Morning! ✌️
-I work on all things at [mayk.it](https://tamber.ai) 👻 🎵 
+I work on all things at [tamber](https://tamber.ai) 👻 🎵 
